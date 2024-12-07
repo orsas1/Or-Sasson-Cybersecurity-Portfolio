@@ -1,2 +1,2 @@
 # Or-Sasson-portfolio
-My portfolio to show the experience i gained during my cybersecurity studies
+I created this portfolio for showing the experience i gained during my two years cybersecurity studies
